@@ -1,0 +1,225 @@
+{
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$/rcQLuAJ/dBVOa1UpGDBM.plu/GP6zM0CvfdocKZP1AQdX5SkMY6K",
+      "role": 1,
+      "status": true,
+      "profilePicture": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/pngtree-dark-gray-simple-avatar-png-image_3418404.jpg?alt=media&token=e257beda-0a36-4130-bbd7-e05b085315c7",
+      "id": 1
+    },
+    {
+      "name": "Nguyễn Đình Dương",
+      "email": "hung@gmai.com",
+      "password": "$2a$10$HItMlGsCIUq8voNHPpZE/O5564qgeWORU4rdvF7m1X/2YNUkiazL6",
+      "role": 1,
+      "status": true,
+      "profilePicture": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/pngtree-dark-gray-simple-avatar-png-image_3418404.jpg?alt=media&token=e257beda-0a36-4130-bbd7-e05b085315c7",
+      "id": 5
+    },
+    {
+      "name": "Nguyễn Đình Dương",
+      "email": "duong@gmail.com",
+      "password": "$2a$10$UqgZRw0nBao2D9rMppu0UOmDR2GvIAhaUbbGxDPnkz0QQnl7JBzjC",
+      "role": 0,
+      "status": true,
+      "profilePicture": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/pngtree-dark-gray-simple-avatar-png-image_3418404.jpg?alt=media&token=e257beda-0a36-4130-bbd7-e05b085315c7",
+      "id": 6
+    },
+    {
+      "name": "Phạm Trung Hiếu",
+      "email": "trunghieu@gmail.com",
+      "password": "$2a$10$/rcQLuAJ/dBVOa1UpGDBM.plu/GP6zM0CvfdocKZP1AQdX5SkMY6K",
+      "role": 0,
+      "status": true,
+      "profilePicture": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/pngtree-dark-gray-simple-avatar-png-image_3418404.jpg?alt=media&token=e257beda-0a36-4130-bbd7-e05b085315c7",
+      "id": 7
+    }
+  ],
+  "courses": [
+    {
+      "title": "Khóa luyện thi THPT",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/t%E1%BA%A3i%20xu%E1%BB%91ng.jpg?alt=media&token=8de4d49b-48ec-4931-a5e5-41f0a4320834",
+      "id": 1
+    },
+    {
+      "title": "Khóa thi DGNL",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/t%E1%BA%A3i%20xu%E1%BB%91ng%20(3).jpg?alt=media&token=b3c5649d-f61e-4fd8-8eca-f37385753cbe",
+      "id": 2
+    },
+    {
+      "title": "Khóa thi nâng cao",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/t%E1%BA%A3i%20xu%E1%BB%91ng%20(1).jpg?alt=media&token=e640a89e-52d2-4973-b492-24e28fdb791f",
+      "id": 3
+    },
+    {
+      "title": "Khóa thi luyện cuối kỳ",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/anh-20mon-20hoc-20igcse-khoa-20hoc.png?alt=media&token=c9dc894a-a995-4992-9779-9d5d2619cb29",
+      "id": 4
+    },
+    {
+      "title": "Khóa luyện thi Đại học",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/t%E1%BA%A3i%20xu%E1%BB%91ng%20(2).jpg?alt=media&token=8049e256-aa59-420e-8d2b-fbcc592c20d4",
+      "id": 5
+    },
+    {
+      "title": "Khóa ôn luyện cấp tốc",
+      "description": "Luyện tập kỹ năng thi trắc nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/images.jpg?alt=media&token=92d4cd3e-c952-4abd-a23e-4ac7ef512e6c",
+      "id": 6
+    },
+    {
+      "title": "Khóa ôn thi",
+      "description": "luyện trách nghiệm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/istockphoto-1309810473-612x612.jpg?alt=media&token=2df8a02d-3210-4ad5-84d2-6fd9fb49ff72",
+      "id": 7
+    },
+    {
+      "title": "Khóa luyện thi online",
+      "description": "luyện thi tốt nhất",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-df4f0.appspot.com/o/12%20(1).jpg?alt=media&token=8f0c559f-6aa4-4316-ab5b-8a6634e8e67d",
+      "id": 8
+    }
+  ],
+  "examSubjects": [
+    {
+      "title": "Môn toán",
+      "description": "Môn học được quan tâm nhiều nhất",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/t%E1%BA%A3i%20xu%E1%BB%91ng%20(4).jpg?alt=media&token=010097b6-88c7-436d-919b-5e9b8925c90b",
+      "courseId": 1,
+      "id": 1
+    },
+    {
+      "title": "Môn hóa",
+      "description": "Môn được mọi người để tâm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/set-chemistry-vector-flat-illustration-260nw-2490555059.webp?alt=media&token=da76c961-74d1-4f4d-ae71-861d8f8115fa",
+      "courseId": 1,
+      "id": 2
+    },
+    {
+      "title": "Môn lý",
+      "description": "Môn khó học thật sự\n",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/physics-formulas-science-education-background-260nw-2497063161.webp?alt=media&token=4d12101d-df5a-42e5-a7e3-e26b3a7f6dd9",
+      "courseId": 1,
+      "id": 3
+    },
+    {
+      "title": "Môn sinh",
+      "description": "học giỏi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/unnamed.jpg?alt=media&token=d287cbc9-f78b-497f-a82e-114f4fa17e91",
+      "courseId": 1,
+      "id": 4
+    }
+  ],
+  "exams": [
+    {
+      "title": "Đề thi số 1",
+      "description": "Được thi nhiều nhất",
+      "duration": 30,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/pngtree-test-paper-examination-student-subjects-png-image_3879176.jpg?alt=media&token=17444139-3c2f-4fc9-ba37-0e6bb8d8b344",
+      "examSubjectId": 1,
+      "id": 1
+    },
+    {
+      "title": "Đề thi số 2",
+      "description": "Đề được quan tâm nhiều nhất",
+      "duration": 60,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/pngtree-test-paper-examination-student-subjects-png-image_3879176.jpg?alt=media&token=17444139-3c2f-4fc9-ba37-0e6bb8d8b344",
+      "examSubjectId": 1,
+      "id": 2
+    },
+    {
+      "title": "Đề thi số 3",
+      "description": "nhanh hơn",
+      "duration": 120,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26vuejsb30-cac83.appspot.com/o/pngtree-test-paper-examination-student-subjects-png-image_3879176.jpg?alt=media&token=17444139-3c2f-4fc9-ba37-0e6bb8d8b344",
+      "examSubjectId": 1,
+      "id": 3
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "1 +1 =?",
+      "examId": 1,
+      "options": [
+        "2",
+        "3",
+        "8",
+        "7"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 2,
+      "question": "Vạn lý trường thành của nước nào?",
+      "examId": 1,
+      "options": [
+        "Trung Quốc",
+        "Việt Nam",
+        "Hàn Quốc",
+        "Nhật Bản"
+      ],
+      "answer": "Trung Quốc"
+    },
+    {
+      "id": 3,
+      "question": "Căn bậc 2 của 4 là bao nhiêu?",
+      "examId": 1,
+      "options": [
+        "8",
+        "3",
+        "8",
+        "2"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 4,
+      "question": "1 +1 =?",
+      "examId": 3,
+      "options": [
+        "2",
+        "3",
+        "8",
+        "7"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 5,
+      "question": "2 * 6 =?",
+      "examId": 3,
+      "options": [
+        "5",
+        "12",
+        "8",
+        "30"
+      ],
+      "answer": "12"
+    }
+  ],
+  "userAnswers": [
+    {
+      "userId": 6,
+      "examId": 1,
+      "nameExam": "Đề thi số 1",
+      "score": 10,
+      "id": 1
+    },
+    {
+      "userId": 6,
+      "examId": 1,
+      "nameExam": "Đề thi số 1",
+      "score": 7,
+      "id": 2
+    }
+  ],
+  "comments": []
+}
